@@ -4,7 +4,7 @@ A stupidly simple sequential ID generator.
 
 ## Installation
 
-`npm i sequential-id``
+`npm i sequential-id`
 
 ## Example
 
