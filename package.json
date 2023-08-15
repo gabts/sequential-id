@@ -1,0 +1,19 @@
+{
+  "name": "sequential-id",
+  "version": "1.0.0",
+  "description": "Generate sequential IDs",
+  "main": "sequential-id.js",
+  "author": "Gabriel Toll Stålbom",
+  "license": "MIT",
+  "keywords": [
+    "sequential",
+    "id"
+  ],
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.2",
+    "typescript": "^5.1.6"
+  }
+}

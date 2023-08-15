@@ -1,0 +1,5 @@
+.DS_Store
+.log
+node_modules
+sequential-id.js
+sequential-id.d.ts
