@@ -1,6 +1,6 @@
 {
   "name": "sequential-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate sequential IDs",
   "main": "sequential-id.js",
   "author": "Gabriel Toll Stålbom",
